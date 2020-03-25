@@ -1,0 +1,2 @@
+rootProject.name='HMS Location Kit'
+include ':app'
